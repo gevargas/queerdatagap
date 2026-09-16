@@ -1,0 +1,18 @@
+[
+  {
+    "relative_path": "input/code/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb",
+    "repository": "https://github.com/gevargas/queerdatagap",
+    "commit": "94fba639e34048cfe6ba57bddf8cd2ef5c606e4f",
+    "git_blob_sha1": "f2e781e9779fc364c408e43dd58924fc312ef771",
+    "sha256": "65481a7095adcb74bfdd2294173a30a4180025204db1a6defb80ce153020b780",
+    "source_origin": "https://github.com/gevargas/queerdatagap/blob/94fba639e34048cfe6ba57bddf8cd2ef5c606e4f/notebooks/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb"
+  },
+  {
+    "relative_path": "input/code/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb",
+    "repository": "https://github.com/gevargas/queerdatagap",
+    "commit": "94fba639e34048cfe6ba57bddf8cd2ef5c606e4f",
+    "git_blob_sha1": "1545ee0685582f7681c986f866a4db047805cd74",
+    "sha256": "a08e00727063b3c711600d39eaf31cf27c1afa211564e89a00db1034b2a72ddf",
+    "source_origin": "https://github.com/gevargas/queerdatagap/blob/94fba639e34048cfe6ba57bddf8cd2ef5c606e4f/notebooks/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb"
+  }
+]

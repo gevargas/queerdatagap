@@ -1,0 +1,15 @@
+{
+  "project_id": "queerdatagap",
+  "curator_id": "unknown",
+  "csv_encoding": "utf-8-sig",
+  "csv_delimiter": null,
+  "header_rows": {
+    "QueerDataGap_Lexico_Situado.xlsx": 4,
+    "lista_podcasts.xlsx": 3
+  },
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "packages": {
+    "openpyxl": "3.1.5",
+    "pypdf": "6.18.1"
+  }
+}

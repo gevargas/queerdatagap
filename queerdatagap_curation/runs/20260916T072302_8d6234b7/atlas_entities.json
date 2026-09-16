@@ -1,0 +1,1162 @@
+{
+  "entities": [
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-1",
+      "attributes": {
+        "relativePath": "input/code/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb",
+        "sha256": "65481a7095adcb74bfdd2294173a30a4180025204db1a6defb80ce153020b780",
+        "sizeBytes": 39809,
+        "fileFormat": "Jupyter notebook",
+        "stage": "input",
+        "sourceOrigin": "https://github.com/gevargas/queerdatagap/blob/94fba639e34048cfe6ba57bddf8cd2ef5c606e4f/notebooks/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "GitHub snapshot at 94fba639e34048cfe6ba57bddf8cd2ef5c606e4f. Repository owner is not assumed to be code author.",
+        "filesystemMtimeUtc": "2026-09-15T17:14:12+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:31.574350+00:00",
+        "extractionStatus": "ok",
+        "gitCommit": "94fba639e34048cfe6ba57bddf8cd2ef5c606e4f",
+        "gitBlobSha1": "f2e781e9779fc364c408e43dd58924fc312ef771",
+        "qualifiedName": "queerdatagap://artifact/input/code/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb@sha256:65481a7095adcb74bfdd2294173a30a4180025204db1a6defb80ce153020b780",
+        "name": "queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb",
+        "technicalMetadataJson": "{\"cell_counts\": {\"markdown\": 5, \"code\": 8}, \"kernel\": {\"display_name\": \"Python 3\", \"language\": \"python\", \"name\": \"python3\"}, \"code_source_sha256\": \"686df6a64c7341ad6d9145009e7c314f630162d6af5cf86baa01cdf3ef0cad1b\", \"executed_here\": false}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-2",
+      "attributes": {
+        "relativePath": "input/code/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb",
+        "sha256": "a08e00727063b3c711600d39eaf31cf27c1afa211564e89a00db1034b2a72ddf",
+        "sizeBytes": 3522440,
+        "fileFormat": "Jupyter notebook",
+        "stage": "input",
+        "sourceOrigin": "https://github.com/gevargas/queerdatagap/blob/94fba639e34048cfe6ba57bddf8cd2ef5c606e4f/notebooks/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "GitHub snapshot at 94fba639e34048cfe6ba57bddf8cd2ef5c606e4f. Repository owner is not assumed to be code author.",
+        "filesystemMtimeUtc": "2026-09-15T17:14:22+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:31.621722+00:00",
+        "extractionStatus": "ok",
+        "gitCommit": "94fba639e34048cfe6ba57bddf8cd2ef5c606e4f",
+        "gitBlobSha1": "1545ee0685582f7681c986f866a4db047805cd74",
+        "qualifiedName": "queerdatagap://artifact/input/code/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb@sha256:a08e00727063b3c711600d39eaf31cf27c1afa211564e89a00db1034b2a72ddf",
+        "name": "queerdatagraph_explorando_terminos_relaciones_SRT.ipynb",
+        "technicalMetadataJson": "{\"cell_counts\": {\"markdown\": 37, \"code\": 46}, \"kernel\": {\"display_name\": \"Python 3\", \"language\": \"python\", \"name\": \"python3\"}, \"code_source_sha256\": \"978fe058c0fb773d43ffeebe2fbd653e057196827b531f89d77d9bc388bf71fb\", \"executed_here\": false}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-3",
+      "attributes": {
+        "relativePath": "input/documents/Glosario_TDSyG_WEB.pdf",
+        "sha256": "bd5d5626f4a8661f4ce13f9664f556fc4588d2539e1e7cd7db591c54a5e755b5",
+        "sizeBytes": 2317052,
+        "fileFormat": "PDF document",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation.",
+        "filesystemMtimeUtc": "2026-07-20T10:38:32+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:31.661152+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/documents/Glosario_TDSyG_WEB.pdf@sha256:bd5d5626f4a8661f4ce13f9664f556fc4588d2539e1e7cd7db591c54a5e755b5",
+        "name": "Glosario_TDSyG_WEB.pdf",
+        "technicalMetadataJson": "{\"page_count\": 53, \"encrypted\": false, \"embedded_metadata_unverified\": {\"/CreationDate\": \"D:20170203122656-06'00'\", \"/Creator\": \"Adobe InDesign CC 2017 (Macintosh)\", \"/ModDate\": \"D:20170203123143-06'00'\", \"/Producer\": \"Adobe PDF Library 15.0\", \"/Trapped\": \"/False\"}}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-4",
+      "attributes": {
+        "relativePath": "input/documents/Resentir_lo_queer_en_America_Latina.pdf",
+        "sha256": "574fe7deb891b41dc331aa3c02056065e348ae6cdb04b37d2b2b23ed012f7951",
+        "sizeBytes": 17927136,
+        "fileFormat": "PDF document",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation.",
+        "filesystemMtimeUtc": "2026-07-20T18:00:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:31.870798+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/documents/Resentir_lo_queer_en_America_Latina.pdf@sha256:574fe7deb891b41dc331aa3c02056065e348ae6cdb04b37d2b2b23ed012f7951",
+        "name": "Resentir_lo_queer_en_America_Latina.pdf",
+        "technicalMetadataJson": "{\"page_count\": 298, \"encrypted\": false, \"embedded_metadata_unverified\": {\"/Producer\": \"Internet Archive PDF 1.4.12; including mupdf and pymupdf/skimage\", \"/CreationDate\": \"D:20220324131713Z\", \"/Title\": \"Resentir lo \\\"queer\\\" en América Latina : diálogos desde/con el sur\", \"/Author\": \"NullObject\", \"/Creator\": \"Internet Archive (Scribe Version 4.5-initial-80-gce32ee1e)\", \"/ModDate\": \"D:20220324131713Z\", \"/Subject\": \"Homosexuality -- Social aspects -- Latin America; Queer theory -- Latin America; Gender identity -- Latin America; Homosexualité -- Aspect social -- Amérique latine; Théorie queer -- Amérique latine; Identité sexuelle -- Amérique latine\", \"/Keywords\": \"https://archive.org/details/resentirloqueere0000unse\", \"/Trapped\": \"NullObject\"}}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-5",
+      "attributes": {
+        "relativePath": "input/tables/QueerDataGap_Lexico_Situado.xlsx",
+        "sha256": "197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34",
+        "sizeBytes": 498068,
+        "fileFormat": "Excel workbook",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation.",
+        "filesystemMtimeUtc": "2026-08-27T10:06:58+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:33.568752+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34",
+        "name": "QueerDataGap_Lexico_Situado.xlsx",
+        "technicalMetadataJson": "{\"sheets\": [{\"sheet\": \"México\", \"header_row\": 4, \"columns\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"original_headers\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"formula_count\": 0, \"excluded_blank_rows\": 989, \"row_count\": 25}, {\"sheet\": \"Argentina\", \"header_row\": 4, \"columns\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"original_headers\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"formula_count\": 0, \"excluded_blank_rows\": 965, \"row_count\": 33}, {\"sheet\": \"España\", \"header_row\": 4, \"columns\": [\"Término\", \"Variantes\", \"Región/País (Época)\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"original_headers\": [\"Término\", \"Variantes\", \"Región/País (Época)\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"formula_count\": 0, \"excluded_blank_rows\": 972, \"row_count\": 28}, {\"sheet\": \"Otros_Países\", \"header_row\": 4, \"columns\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"original_headers\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"formula_count\": 0, \"excluded_blank_rows\": 986, \"row_count\": 10}, {\"sheet\": \"Estándar_Referencia\", \"header_row\": 4, \"columns\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"original_headers\": [\"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"formula_count\": 0, \"excluded_blank_rows\": 981, \"row_count\": 22}, {\"sheet\": \"Categorías_Temáticas\", \"header_row\": 4, \"columns\": [\"Categoría\", \"Definición\", \"Por qué se incluye en la tabla\", \"Relación con el marco teórico\", \"Comentario\"], \"original_headers\": [\"Categoría\", \"Definición\", \"Por qué se incluye en la tabla\", \"Relación con el marco teórico\", \"Comentario\"], \"formula_count\": 0, \"excluded_blank_rows\": 985, \"row_count\": 6}, {\"sheet\": \"Fases\", \"header_row\": 4, \"columns\": [\"Fase\", \"Qué incluye\", \"Detalles clave\", \"Notas / estado\"], \"original_headers\": [\"Fase\", \"Qué incluye\", \"Detalles clave\", \"Notas / estado\"], \"formula_count\": 0, \"excluded_blank_rows\": 990, \"row_count\": 6}, {\"sheet\": \"Notas | Citas\", \"header_row\": 4, \"columns\": [\"Concepto / cita\", \"Fuente\", \"Para qué sirve\", \"Fecha en que se encontró\"], \"original_headers\": [\"Concepto / cita\", \"Fuente\", \"Para qué sirve\", \"Fecha en que se encontró\"], \"formula_count\": 0, \"excluded_blank_rows\": 993, \"row_count\": 3}]}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-6",
+      "attributes": {
+        "relativePath": "input/tables/lista_podcasts.xlsx",
+        "sha256": "c2039029caa59b3316a4a28493e81c00d3329cb92eb909135cb0ddb6802bb808",
+        "sizeBytes": 57919,
+        "fileFormat": "Excel workbook",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation.",
+        "filesystemMtimeUtc": "2026-08-27T10:30:42+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:33.765803+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/tables/lista_podcasts.xlsx@sha256:c2039029caa59b3316a4a28493e81c00d3329cb92eb909135cb0ddb6802bb808",
+        "name": "lista_podcasts.xlsx",
+        "technicalMetadataJson": "{\"sheets\": [{\"sheet\": \"Podcasts_Episodios\", \"header_row\": 3, \"columns\": [\"Podcast/Canal\", \"Episodio concreto\", \"Enlace\", \"Plataforma\", \"Duración\", \"País\", \"Quién lo analiza\", \"Nombre archivo transcripción\", \"Estado\"], \"original_headers\": [\"Podcast/Canal\", \"Episodio concreto\", \"Enlace\", \"Plataforma\", \"Duración\", \"País\", \"Quién lo analiza\", \"Nombre archivo transcripción\", \"Estado\"], \"formula_count\": 0, \"excluded_blank_rows\": 962, \"row_count\": 37}]}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-7",
+      "attributes": {
+        "relativePath": "input/transcripts/fvfRMweIiWw.srt",
+        "sha256": "14adffc82f94e8495fcceaeb58bc97411c3a6c7e301c5abbe011545b18e11df9",
+        "sizeBytes": 75442,
+        "fileFormat": "SRT transcript",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Register lists https://www.youtube.com/watch?v=fvfRMweIiWw; evidence input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=10. Analyst is not assumed to be creator.",
+        "filesystemMtimeUtc": "2026-07-09T17:23:00+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:33.777873+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/transcripts/fvfRMweIiWw.srt@sha256:14adffc82f94e8495fcceaeb58bc97411c3a6c7e301c5abbe011545b18e11df9",
+        "name": "fvfRMweIiWw.srt",
+        "technicalMetadataJson": "{\"cue_count\": 1052, \"max_cue_end_seconds\": 2822.66, \"timestamp_issues\": [], \"encoding\": \"utf-8-sig\", \"register_matches_unverified\": [{\"episode_title\": \"EP6: ¿Qué es transexual / transgénero / transexualidad?\", \"listed_url\": \"https://www.youtube.com/watch?v=fvfRMweIiWw\", \"listed_platform\": \"Youtube\", \"listed_country\": \"México\", \"assigned_analyst\": \"Genoveva\", \"evidence\": \"input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=10\"}]}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-8",
+      "attributes": {
+        "relativePath": "input/transcripts/h-CkQVuco1Q.srt",
+        "sha256": "6a7bc83f7204ddc04de38c8d2b36afb524f1c12a268bd175ec8f5d5137a4f4ba",
+        "sizeBytes": 20781,
+        "fileFormat": "SRT transcript",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Register lists https://www.youtube.com/watch?v=h-CkQVuco1Q; evidence input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=8. Analyst is not assumed to be creator.",
+        "filesystemMtimeUtc": "2026-07-09T17:20:50+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:33.784350+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/transcripts/h-CkQVuco1Q.srt@sha256:6a7bc83f7204ddc04de38c8d2b36afb524f1c12a268bd175ec8f5d5137a4f4ba",
+        "name": "h-CkQVuco1Q.srt",
+        "technicalMetadataJson": "{\"cue_count\": 294, \"max_cue_end_seconds\": 804.719, \"timestamp_issues\": [], \"encoding\": \"utf-8-sig\", \"register_matches_unverified\": [{\"episode_title\": \"EP3: Acoso escolar | Bullying | Invitada: Alma Hernández\", \"listed_url\": \"https://www.youtube.com/watch?v=h-CkQVuco1Q\", \"listed_platform\": \"Youtube\", \"listed_country\": \"México\", \"assigned_analyst\": \"Genoveva\", \"evidence\": \"input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=8\"}]}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-9",
+      "attributes": {
+        "relativePath": "input/transcripts/rTYgX5Qtoqs.srt",
+        "sha256": "fa3e3be95033bb1e3e125e2e94442149224e836fe5a64abc4a5d4843de5aab04",
+        "sizeBytes": 93665,
+        "fileFormat": "SRT transcript",
+        "stage": "input",
+        "sourceOrigin": "User-supplied file; upstream origin not yet verified",
+        "creators": "Unknown",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Register lists https://www.youtube.com/watch?v=rTYgX5Qtoqs; evidence input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=11. Analyst is not assumed to be creator.",
+        "filesystemMtimeUtc": "2026-07-09T17:23:24+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:33.795539+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input/transcripts/rTYgX5Qtoqs.srt@sha256:fa3e3be95033bb1e3e125e2e94442149224e836fe5a64abc4a5d4843de5aab04",
+        "name": "rTYgX5Qtoqs.srt",
+        "technicalMetadataJson": "{\"cue_count\": 1299, \"max_cue_end_seconds\": 3333.889, \"timestamp_issues\": [], \"encoding\": \"utf-8-sig\", \"register_matches_unverified\": [{\"episode_title\": \"EP42: ¿Qué es travesti? | Identidad travesti | Invitada: Romina Luna\", \"listed_url\": \"https://www.youtube.com/watch?v=rTYgX5Qtoqs\", \"listed_platform\": \"Youtube\", \"listed_country\": \"México\", \"assigned_analyst\": \"Genoveva\", \"evidence\": \"input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=11\"}]}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-10",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/executed_notebook_source.py",
+        "sha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "sizeBytes": 25605,
+        "fileFormat": "Python code",
+        "stage": "run specification",
+        "sourceOrigin": "Code cells of metadata_provenance_atlas.ipynb",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:34+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:34.206574+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/executed_notebook_source.py@sha256:68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "name": "executed_notebook_source.py",
+        "technicalMetadataJson": "{\"profile_note\": \"Generic file metadata only\"}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-11",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/run_config.json",
+        "sha256": "1676e883f2a9d5f82f91bbce4b53fc780b7c1bae4b48072a05605b868523ce90",
+        "sizeBytes": 347,
+        "fileFormat": "JSON metadata",
+        "stage": "run specification",
+        "sourceOrigin": "Configuration recorded by this execution",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:02+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:34.209287+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/run_config.json@sha256:1676e883f2a9d5f82f91bbce4b53fc780b7c1bae4b48072a05605b868523ce90",
+        "name": "run_config.json",
+        "technicalMetadataJson": "{\"profile_note\": \"Generic file metadata only\"}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-12",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/curator_annotations.json",
+        "sha256": "3b4ad5a62ad365f85025868f262a46a8f3101bb54ca109b58120d800a937c6fb",
+        "sizeBytes": 3792,
+        "fileFormat": "JSON metadata",
+        "stage": "run specification",
+        "sourceOrigin": "Curator annotations loaded for this run",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:17+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:34.212205+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/curator_annotations.json@sha256:3b4ad5a62ad365f85025868f262a46a8f3101bb54ca109b58120d800a937c6fb",
+        "name": "curator_annotations.json",
+        "technicalMetadataJson": "{\"profile_note\": \"Generic file metadata only\"}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-13",
+      "attributes": {
+        "relativePath": "input_manifest.json",
+        "sha256": "cc0d5fffbea280f87994e6f8795ec4538f4e4c665e5e6fc97df25d5622239c69",
+        "sizeBytes": 2983,
+        "fileFormat": "JSON metadata",
+        "stage": "run specification",
+        "sourceOrigin": "Recorded during package assembly",
+        "creators": "Package assembly process",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-15T17:23:00+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:34.216016+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/input_manifest.json@sha256:cc0d5fffbea280f87994e6f8795ec4538f4e4c665e5e6fc97df25d5622239c69",
+        "name": "input_manifest.json",
+        "technicalMetadataJson": "{\"profile_note\": \"Generic file metadata only\"}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-14",
+      "attributes": {
+        "relativePath": "repository_snapshot.json",
+        "sha256": "1cf22846a2d65826fd3af4d680b5cb8f256f96133d3da9c64006413792326eb4",
+        "sizeBytes": 1094,
+        "fileFormat": "JSON metadata",
+        "stage": "run specification",
+        "sourceOrigin": "Recorded during package assembly",
+        "creators": "Package assembly process",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-15T17:16:00+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:34.218167+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/repository_snapshot.json@sha256:1cf22846a2d65826fd3af4d680b5cb8f256f96133d3da9c64006413792326eb4",
+        "name": "repository_snapshot.json",
+        "technicalMetadataJson": "{\"profile_note\": \"Generic file metadata only\"}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-15",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_1.csv",
+        "sha256": "f86ba0e69eefd76f40531be66e38c0f9a8b407027b7eeacce1423e460f9ba881",
+        "sizeBytes": 12165,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=M%C3%A9xico",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.475134+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_1.csv@sha256:f86ba0e69eefd76f40531be66e38c0f9a8b407027b7eeacce1423e460f9ba881",
+        "name": "QueerDataGap_Lexico_Situado__sheet_1.csv",
+        "technicalMetadataJson": "{\"row_count\": 25, \"column_count\": 14, \"columns\": [\"_source_row\", \"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 69}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-16",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_2.csv",
+        "sha256": "1fea61b9506ff3c015e804845d2989c73a5cd99dd91e41e1f4ee6d919cf2e432",
+        "sizeBytes": 11513,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Argentina",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.488114+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_2.csv@sha256:1fea61b9506ff3c015e804845d2989c73a5cd99dd91e41e1f4ee6d919cf2e432",
+        "name": "QueerDataGap_Lexico_Situado__sheet_2.csv",
+        "technicalMetadataJson": "{\"row_count\": 33, \"column_count\": 14, \"columns\": [\"_source_row\", \"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 97}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-17",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_3.csv",
+        "sha256": "c234b953ee844ba994b8c80bdad69a301f73d29369c8447f82aff05dee1dbd02",
+        "sizeBytes": 13803,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Espa%C3%B1a",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.500800+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_3.csv@sha256:c234b953ee844ba994b8c80bdad69a301f73d29369c8447f82aff05dee1dbd02",
+        "name": "QueerDataGap_Lexico_Situado__sheet_3.csv",
+        "technicalMetadataJson": "{\"row_count\": 28, \"column_count\": 14, \"columns\": [\"_source_row\", \"Término\", \"Variantes\", \"Región/País (Época)\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 54}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-18",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_4.csv",
+        "sha256": "81cbd19bb928e68d7c1991a7471fb9e5b9dcb782b25e7b950926aa26072ad4d2",
+        "sizeBytes": 2325,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Otros_Pa%C3%ADses",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.512098+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_4.csv@sha256:81cbd19bb928e68d7c1991a7471fb9e5b9dcb782b25e7b950926aa26072ad4d2",
+        "name": "QueerDataGap_Lexico_Situado__sheet_4.csv",
+        "technicalMetadataJson": "{\"row_count\": 10, \"column_count\": 14, \"columns\": [\"_source_row\", \"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 39}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-19",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_5.csv",
+        "sha256": "7f793a68e58bd8b4df12f27370a495337ec941b1b7c8d3dd1ed497927e955bcd",
+        "sizeBytes": 9358,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Est%C3%A1ndar_Referencia",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.526824+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_5.csv@sha256:7f793a68e58bd8b4df12f27370a495337ec941b1b7c8d3dd1ed497927e955bcd",
+        "name": "QueerDataGap_Lexico_Situado__sheet_5.csv",
+        "technicalMetadataJson": "{\"row_count\": 22, \"column_count\": 14, \"columns\": [\"_source_row\", \"Término\", \"Variantes\", \"Región/País\", \"Definición\", \"Categoría temática\", \"Subdominio\", \"Ofensividad*\", \"Ingroup/Outgroup\", \"Fuente\", \"Tipo de evidencia\", \"Cita o ejemplo real\", \"Par contrastivo (estándar)\", \"Nota de auditoría\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 97}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-20",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_6.csv",
+        "sha256": "4700a09327504695aa07aa86c7fb0cee38f835b36d0320ae091aa96b6ef77f8c",
+        "sizeBytes": 6380,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Categor%C3%ADas_Tem%C3%A1ticas",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.538761+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_6.csv@sha256:4700a09327504695aa07aa86c7fb0cee38f835b36d0320ae091aa96b6ef77f8c",
+        "name": "QueerDataGap_Lexico_Situado__sheet_6.csv",
+        "technicalMetadataJson": "{\"row_count\": 6, \"column_count\": 6, \"columns\": [\"_source_row\", \"Categoría\", \"Definición\", \"Por qué se incluye en la tabla\", \"Relación con el marco teórico\", \"Comentario\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 3}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-21",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_7.csv",
+        "sha256": "d94fcd4d1463a9431a39e757bf903c29bb030a5e25c5eaecdd6c011fd5d9e98d",
+        "sizeBytes": 2303,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Fases",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.550863+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_7.csv@sha256:d94fcd4d1463a9431a39e757bf903c29bb030a5e25c5eaecdd6c011fd5d9e98d",
+        "name": "QueerDataGap_Lexico_Situado__sheet_7.csv",
+        "technicalMetadataJson": "{\"row_count\": 6, \"column_count\": 5, \"columns\": [\"_source_row\", \"Fase\", \"Qué incluye\", \"Detalles clave\", \"Notas / estado\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 3}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-22",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_8.csv",
+        "sha256": "1fd10f8e31fe2e9ec87d4138e74f79ab7b4bd4fcf5456b7ccb5ce1ddef001c29",
+        "sizeBytes": 1704,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/QueerDataGap_Lexico_Situado.xlsx@sha256:197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34#sheet=Notas%20%7C%20Citas",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.562553+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/QueerDataGap_Lexico_Situado__sheet_8.csv@sha256:1fd10f8e31fe2e9ec87d4138e74f79ab7b4bd4fcf5456b7ccb5ce1ddef001c29",
+        "name": "QueerDataGap_Lexico_Situado__sheet_8.csv",
+        "technicalMetadataJson": "{\"row_count\": 3, \"column_count\": 5, \"columns\": [\"_source_row\", \"Concepto / cita\", \"Fuente\", \"Para qué sirve\", \"Fecha en que se encontró\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 0}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-23",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/lista_podcasts__sheet_1.csv",
+        "sha256": "f29d5ad376ab750598d3286a4cd54f3abb41b1e58281235a07946e21bfef8e15",
+        "sizeBytes": 6361,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/tables/lista_podcasts.xlsx@sha256:c2039029caa59b3316a4a28493e81c00d3329cb92eb909135cb0ddb6802bb808#sheet=Podcasts_Episodios",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.786189+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/lista_podcasts__sheet_1.csv@sha256:f29d5ad376ab750598d3286a4cd54f3abb41b1e58281235a07946e21bfef8e15",
+        "name": "lista_podcasts__sheet_1.csv",
+        "technicalMetadataJson": "{\"row_count\": 37, \"column_count\": 10, \"columns\": [\"_source_row\", \"Podcast/Canal\", \"Episodio concreto\", \"Enlace\", \"Plataforma\", \"Duración\", \"País\", \"Quién lo analiza\", \"Nombre archivo transcripción\", \"Estado\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 41}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-24",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/fvfRMweIiWw__cues.csv",
+        "sha256": "48194b842f5f983ed12b4e9cd46036c2f0f18a95f7ae3bb80355c52f628bb9fe",
+        "sizeBytes": 64332,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/transcripts/fvfRMweIiWw.srt@sha256:14adffc82f94e8495fcceaeb58bc97411c3a6c7e301c5abbe011545b18e11df9",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.832386+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/fvfRMweIiWw__cues.csv@sha256:48194b842f5f983ed12b4e9cd46036c2f0f18a95f7ae3bb80355c52f628bb9fe",
+        "name": "fvfRMweIiWw__cues.csv",
+        "technicalMetadataJson": "{\"row_count\": 1052, \"column_count\": 5, \"columns\": [\"source_block\", \"cue_id\", \"start_seconds\", \"end_seconds\", \"text\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 0}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-25",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/h-CkQVuco1Q__cues.csv",
+        "sha256": "d0617da8f82ac0e2db0b5148118b50f3aff7e4e4de62628786c1065215b56ac7",
+        "sizeBytes": 17205,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/transcripts/h-CkQVuco1Q.srt@sha256:6a7bc83f7204ddc04de38c8d2b36afb524f1c12a268bd175ec8f5d5137a4f4ba",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.854931+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/h-CkQVuco1Q__cues.csv@sha256:d0617da8f82ac0e2db0b5148118b50f3aff7e4e4de62628786c1065215b56ac7",
+        "name": "h-CkQVuco1Q__cues.csv",
+        "technicalMetadataJson": "{\"row_count\": 294, \"column_count\": 5, \"columns\": [\"source_block\", \"cue_id\", \"start_seconds\", \"end_seconds\", \"text\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 0}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-26",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/rTYgX5Qtoqs__cues.csv",
+        "sha256": "dcbe22862a6e45c1fcf445fae8b13fae4cf9f77559a17dcd27a553285e8e5cfd",
+        "sizeBytes": 80475,
+        "fileFormat": "CSV dataset",
+        "stage": "derived",
+        "sourceOrigin": "queerdatagap://artifact/input/transcripts/rTYgX5Qtoqs.srt@sha256:fa3e3be95033bb1e3e125e2e94442149224e836fe5a64abc4a5d4843de5aab04",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.890995+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/rTYgX5Qtoqs__cues.csv@sha256:dcbe22862a6e45c1fcf445fae8b13fae4cf9f77559a17dcd27a553285e8e5cfd",
+        "name": "rTYgX5Qtoqs__cues.csv",
+        "technicalMetadataJson": "{\"row_count\": 1299, \"column_count\": 5, \"columns\": [\"source_block\", \"cue_id\", \"start_seconds\", \"end_seconds\", \"text\"], \"encoding\": \"utf-8-sig\", \"delimiter\": \",\", \"duplicate_headers\": [], \"inconsistent_row_numbers\": [], \"empty_cells\": 0}"
+      }
+    },
+    {
+      "typeName": "qdg_artifact_v1",
+      "guid": "-27",
+      "attributes": {
+        "relativePath": "runs/20260916T072302_8d6234b7/extracted_metadata.json",
+        "sha256": "1482ed8c9307c2f0c380a81a70dd1ba01d1f98aa2885c0a4607f64d2d9668a88",
+        "sizeBytes": 45034,
+        "fileFormat": "JSON metadata",
+        "stage": "metadata output",
+        "sourceOrigin": "Metadata extracted in run 20260916T072302_8d6234b7",
+        "creators": "qdg-metadata-notebook-1.0",
+        "accessRights": "Unknown",
+        "modificationRights": "Unknown",
+        "curationEvidence": "Needs curator review",
+        "filesystemMtimeUtc": "2026-09-16T07:23:46+00:00",
+        "extractedAtUtc": "2026-09-16T07:23:46.902783+00:00",
+        "extractionStatus": "ok",
+        "qualifiedName": "queerdatagap://artifact/runs/20260916T072302_8d6234b7/extracted_metadata.json@sha256:1482ed8c9307c2f0c380a81a70dd1ba01d1f98aa2885c0a4607f64d2d9668a88",
+        "name": "extracted_metadata.json",
+        "technicalMetadataJson": "{\"profile_note\": \"Generic file metadata only\"}"
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-28",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/1",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.460198+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.475157+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"México\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-15",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-29",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/2",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.475173+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.488137+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Argentina\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-16",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-30",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/3",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.488152+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.500821+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"España\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-17",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-31",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/4",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.500836+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.512120+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Otros_Países\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-18",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-32",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/5",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.512135+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.526845+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Estándar_Referencia\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-19",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-33",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/6",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.526860+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.538782+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Categorías_Temáticas\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-20",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-34",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/7",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.538797+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.550884+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Fases\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-21",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-35",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/8",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.550898+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.562574+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Notas | Citas\", \"header_row\": 4, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-22",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-36",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/9",
+        "name": "Export spreadsheet sheet to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.753399+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.786214+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"sheet\": \"Podcasts_Episodios\", \"header_row\": 3, \"blank_rows\": \"excluded\", \"formulas\": \"preserved as expressions, not recalculated\", \"encoding\": \"utf-8-sig\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-6",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-23",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-37",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/10",
+        "name": "Parse SRT cues to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.786258+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.832406+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"timestamp_unit\": \"seconds\", \"text\": \"preserved\", \"reported_issues\": []}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-7",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-24",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-38",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/11",
+        "name": "Parse SRT cues to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.832436+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.854953+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"timestamp_unit\": \"seconds\", \"text\": \"preserved\", \"reported_issues\": []}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-8",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-25",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-39",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/12",
+        "name": "Parse SRT cues to CSV",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:46.854979+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.891011+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"timestamp_unit\": \"seconds\", \"text\": \"preserved\", \"reported_issues\": []}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-9",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-26",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    },
+    {
+      "typeName": "qdg_process_v1",
+      "guid": "-40",
+      "attributes": {
+        "qualifiedName": "queerdatagap://run/20260916T072302_8d6234b7/process/13",
+        "name": "Extract and assemble metadata",
+        "runId": "20260916T072302_8d6234b7",
+        "startedAtUtc": "2026-09-16T07:23:31.571031+00:00",
+        "endedAtUtc": "2026-09-16T07:23:46.903103+00:00",
+        "softwareAgent": "qdg-metadata-notebook-1.0",
+        "curatorId": "unknown",
+        "parametersJson": "{\"versions\": {\"openpyxl\": \"3.1.5\", \"pypdf\": \"6.18.1\"}, \"profilers\": \"format-specific\"}",
+        "codeSha256": "68f22f45f7a92ec7ff2d75987bba67608512e10467f91dc9d30378cc41582557",
+        "executionStatus": "completed",
+        "inputs": [
+          {
+            "guid": "-1",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-2",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-3",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-4",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-5",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-6",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-7",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-8",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-9",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-10",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-11",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-12",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-13",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-14",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-15",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-16",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-17",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-18",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-19",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-20",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-21",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-22",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-23",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-24",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-25",
+            "typeName": "qdg_artifact_v1"
+          },
+          {
+            "guid": "-26",
+            "typeName": "qdg_artifact_v1"
+          }
+        ],
+        "outputs": [
+          {
+            "guid": "-27",
+            "typeName": "qdg_artifact_v1"
+          }
+        ]
+      }
+    }
+  ]
+}

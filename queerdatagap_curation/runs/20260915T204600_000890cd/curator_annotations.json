@@ -1,0 +1,65 @@
+{
+  "input/code/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb": {
+    "Source or origin": "https://github.com/gevargas/queerdatagap/blob/94fba639e34048cfe6ba57bddf8cd2ef5c606e4f/notebooks/queerdatagap_clean_frequency_matrix_LGBTQ_vocabulary.ipynb",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "GitHub snapshot at 94fba639e34048cfe6ba57bddf8cd2ef5c606e4f. Repository owner is not assumed to be code author."
+  },
+  "input/code/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb": {
+    "Source or origin": "https://github.com/gevargas/queerdatagap/blob/94fba639e34048cfe6ba57bddf8cd2ef5c606e4f/notebooks/queerdatagraph_explorando_terminos_relaciones_SRT.ipynb",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "GitHub snapshot at 94fba639e34048cfe6ba57bddf8cd2ef5c606e4f. Repository owner is not assumed to be code author."
+  },
+  "input/documents/Glosario_TDSyG_WEB.pdf": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation."
+  },
+  "input/documents/Resentir_lo_queer_en_America_Latina.pdf": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation."
+  },
+  "input/tables/QueerDataGap_Lexico_Situado.xlsx": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation."
+  },
+  "input/tables/lista_podcasts.xlsx": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Supplied file. Original name and checksum in input_manifest.json. Creator and rights need confirmation."
+  },
+  "input/transcripts/fvfRMweIiWw.srt": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Register lists https://www.youtube.com/watch?v=fvfRMweIiWw; evidence input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=10. Analyst is not assumed to be creator."
+  },
+  "input/transcripts/h-CkQVuco1Q.srt": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Register lists https://www.youtube.com/watch?v=h-CkQVuco1Q; evidence input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=8. Analyst is not assumed to be creator."
+  },
+  "input/transcripts/rTYgX5Qtoqs.srt": {
+    "Source or origin": "User-supplied file; upstream origin not yet verified",
+    "Who creates it": "Unknown",
+    "Who can access it": "Unknown",
+    "Who can modify it": "Unknown",
+    "Evidence or notes": "Register lists https://www.youtube.com/watch?v=rTYgX5Qtoqs; evidence input/tables/lista_podcasts.xlsx#sheet=Podcasts_Episodios&row=11. Analyst is not assumed to be creator."
+  }
+}

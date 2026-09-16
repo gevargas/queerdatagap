@@ -1,0 +1,58 @@
+[
+  {
+    "relative_path": "input/transcripts/fvfRMweIiWw.srt",
+    "original_filename": "fvfRMweIiWw.srt",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "14adffc82f94e8495fcceaeb58bc97411c3a6c7e301c5abbe011545b18e11df9",
+    "copied_at_utc": "2026-09-15T17:15:38.003914+00:00",
+    "original_mtime_utc": "2026-07-09T17:23:01+00:00"
+  },
+  {
+    "relative_path": "input/transcripts/h-CkQVuco1Q.srt",
+    "original_filename": "h-CkQVuco1Q.srt",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "6a7bc83f7204ddc04de38c8d2b36afb524f1c12a268bd175ec8f5d5137a4f4ba",
+    "copied_at_utc": "2026-09-15T17:15:38.004847+00:00",
+    "original_mtime_utc": "2026-07-09T17:20:51+00:00"
+  },
+  {
+    "relative_path": "input/transcripts/rTYgX5Qtoqs.srt",
+    "original_filename": "rTYgX5Qtoqs.srt",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "fa3e3be95033bb1e3e125e2e94442149224e836fe5a64abc4a5d4843de5aab04",
+    "copied_at_utc": "2026-09-15T17:15:38.005871+00:00",
+    "original_mtime_utc": "2026-07-09T17:23:25+00:00"
+  },
+  {
+    "relative_path": "input/documents/Glosario_TDSyG_WEB.pdf",
+    "original_filename": "Glosario_TDSyG_WEB.pdf",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "bd5d5626f4a8661f4ce13f9664f556fc4588d2539e1e7cd7db591c54a5e755b5",
+    "copied_at_utc": "2026-09-15T17:15:38.012286+00:00",
+    "original_mtime_utc": "2026-07-20T10:38:33.640820+00:00"
+  },
+  {
+    "relative_path": "input/documents/Resentir_lo_queer_en_America_Latina.pdf",
+    "original_filename": "Resentir lo \"queer\" en América Latina - diálogos desde-con -- Falconí Trávez, Diego, editor; Castellanos, Santiago, -- Colección G, Colección G, -- isbn13 9788415899501 -- 9e4db68dbc7a61ed031c61132848c3e2 -- Anna’s Archive.pdf",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "574fe7deb891b41dc331aa3c02056065e348ae6cdb04b37d2b2b23ed012f7951",
+    "copied_at_utc": "2026-09-15T17:15:38.063966+00:00",
+    "original_mtime_utc": "2026-07-20T18:00:47+00:00"
+  },
+  {
+    "relative_path": "input/tables/QueerDataGap_Lexico_Situado.xlsx",
+    "original_filename": "QueerDataGap_Lexico_Situado.xlsx",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "197ecb6be24578e27f57aa7b42548c4c708d2015983cc5fda668d889e0da0a34",
+    "copied_at_utc": "2026-09-15T17:15:39.834128+00:00",
+    "original_mtime_utc": "2026-08-27T10:06:59.832000+00:00"
+  },
+  {
+    "relative_path": "input/tables/lista_podcasts.xlsx",
+    "original_filename": "lista_podcasts.xlsx",
+    "source_origin": "User-supplied file; upstream origin not yet verified",
+    "sha256": "c2039029caa59b3316a4a28493e81c00d3329cb92eb909135cb0ddb6802bb808",
+    "copied_at_utc": "2026-09-15T17:15:41.708367+00:00",
+    "original_mtime_utc": "2026-08-27T10:30:42.266000+00:00"
+  }
+]

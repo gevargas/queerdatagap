@@ -1,0 +1,9 @@
+{
+  "jupyter_execution": "9 code cells passed",
+  "notebook_format": "nbformat 4.5 validated",
+  "parser_edge_cases": "passed",
+  "asset_hashes": "27 passed",
+  "atlas_local_references": "passed",
+  "workbook_structure": "27 catalogue rows and 42 schema rows passed",
+  "atlas_server": "not contacted"
+}
